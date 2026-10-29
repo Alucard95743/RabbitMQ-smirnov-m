@@ -18,7 +18,7 @@
 
 ![Доступные ноды кластера](img/TASK_3, node_follower.png)
 
-![Аргументы](img/TASK_3,arguments.png)
+![Аргументы](img/TASK_3,argument.png)
 
 ![Cтатус кластера c ноды 1](img/TASK_3,node1_cluster_status.png)
 
