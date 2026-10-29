@@ -16,7 +16,7 @@
 
 ### Задание 3. Подготовка HA кластера
 
-![Доступные ноды кластера](img/TASK_3,node_follower.png)
+![Доступные ноды кластера](img/TASK_3, node_follower.png)
 
 ![Аргументы](img/TASK_3,arguments.png)
 
